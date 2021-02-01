@@ -1,3 +1,3 @@
 # Coursera-IBM Data Science Capstone Project
-## Exploring Toronto Neighborhoods
+## Hospitals And COVID In Los Angeles County
 Bofan Chen
